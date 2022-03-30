@@ -3,7 +3,15 @@
 - 🌱 I’m currently learning C++,Java
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 Reach me at https://ayman-sys.github.io/ayman.codes
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-sys&count_private=true)
+
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-sys&show_icons=true&theme=radical)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-sys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ayman-sys/ayman-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
