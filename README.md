@@ -2,7 +2,7 @@
 - 👀 Chasing Dreams
 - 🌱 I’m currently learning C++,Java
 - 💞️ I’m looking to collaborate on New Projects
-- 📫 Reach me at https://ayman-sys.github.io/ayman.codes
+- 📫 Reach me at https://ayman-shaikh.me/
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-sys&count_private=true)
 
