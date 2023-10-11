@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ayman-sys/ayman-sys/blob/main/ayman-sys.png" alt="Your Image Description" width="790">
+</p>
+https://github.com/ayman-sys/ayman-sys/blob/main/ayman-sys.png
 - 👋 Hi, I’m @ayman-sys
 - 👀 Chasing Dreams
 - 🌱 I’m currently learning C++,Java
