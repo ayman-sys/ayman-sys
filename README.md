@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://github.com/ayman-sys/ayman-sys/blob/main/ayman-sys.png" alt="Your Image Description" width="790">
 </p>
-https://github.com/ayman-sys/ayman-sys/blob/main/ayman-sys.png
-- 👋 Hi, I’m @ayman-sys
-- 👀 Chasing Dreams
-- 🌱 I’m currently learning C++,Java
-- 💞️ I’m looking to collaborate on New Projects
-- 📫 Reach me at https://ayman-shaikh.me/
+<h1 align="center">Hi 👋, I'm Ayman Shaikh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-911&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-911" /> </p>
+- 🌱 I’m currently learning DOCKER, JENKINS, KUBERNETES.
+- 📫 How to reach me **aymanshaikh1111@gmail.com**
+- 📫 Reach me at https://ayman-sys.github.io/
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-sys&count_private=true)
 
